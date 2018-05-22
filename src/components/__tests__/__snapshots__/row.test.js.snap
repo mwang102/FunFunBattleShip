@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`row component matches the snapshot 1`] = `
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0px 5px;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  padding: 0px 1.0875rem 1.45rem;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.5);
+  font-size: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: BlanchedAlmond;
+  cursor: pointer;
+}
+
+.c1:hover {
+  background: gold;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  margin: 5px;
+  background: ivory;
+  height: auto;
+  -webkit-animation: cJUYLg;
+  animation: cJUYLg;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease;
+  animation-timing-function: ease;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-delay: .1s;
+  animation-delay: .1s;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+    onClick={[Function]}
+  />
+  <div
+    className="c1"
+    onClick={[Function]}
+  />
+  <div
+    className="c1"
+    onClick={[Function]}
+  />
+  <div
+    className="c1"
+    onClick={[Function]}
+  />
+</div>
+`;

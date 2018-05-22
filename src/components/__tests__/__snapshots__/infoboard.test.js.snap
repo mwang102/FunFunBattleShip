@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info Board matches the snapshot 1`] = `
+.c1 {
+  font-size: 2rem;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.c0 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  margin: 1rem;
+  white-space: nowrap;
+}
+
+<table
+  className="c0"
+>
+  <tbody>
+    <tr>
+      <td
+        className="c1"
+      >
+        Turns:
+      </td>
+      <td
+        className="c1"
+      >
+        0
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="c1"
+      >
+        Hits:
+      </td>
+      <td
+        className="c1"
+      >
+        0
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="c1"
+      >
+        Miss:
+      </td>
+      <td
+        className="c1"
+      >
+        0
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="c1"
+      >
+        # Sunk:
+      </td>
+      <td
+        className="c1"
+      >
+        0
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="c1"
+      >
+        Already Hit :
+      </td>
+      <td
+        className="c1"
+      >
+        0
+      </td>
+    </tr>
+    <tr>
+      <td
+        className="c1"
+      >
+        Number Hits Left :
+      </td>
+      <td
+        className="c1"
+      >
+        5
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

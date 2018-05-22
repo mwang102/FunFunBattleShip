@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches the snapshot 1`] = `
+<div
+  className="App__AppContainer-AkgWc hnJAcI"
+>
+  <header
+    className="Header__HeaderContainer-dJGUWw egBCRU"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <h1
+      className="App-title"
+    >
+      Welcome to BattleShip
+    </h1>
+  </header>
+  <h1>
+    To get started, click a square!
+  </h1>
+  <section
+    className="App__MainSection-isHagR cDPuPv"
+  >
+    <table
+      className="InfoBoard__TableContainer-boKKNy dlTEcW"
+    >
+      <tbody>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            Turns:
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            0
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            Hits:
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            0
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            Miss:
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            0
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            # Sunk:
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            0
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            Already Hit :
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            0
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            Number Hits Left :
+          </td>
+          <td
+            className="InfoBoard__TableData-gMzDoW cllDnB"
+          >
+            5
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <section
+      className="BattleShipBoard__BoardContainer-hAezEV hOfTSv"
+    >
+       
+      <div
+        className="Row__RowContainer-kGhZeq hEhNxb"
+      >
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="Row__RowContainer-kGhZeq egDMuO"
+      >
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="Row__RowContainer-kGhZeq gehGJu"
+      >
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+      </div>
+      <div
+        className="Row__RowContainer-kGhZeq eMrEtv"
+      >
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+        <div
+          className="Square__SquareContainer-cBVEEA gkcFPj"
+          onClick={[Function]}
+        />
+      </div>
+       
+    </section>
+  </section>
+</div>
+`;

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`square component matches the snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0px 5px;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+  padding: 0px 1.0875rem 1.45rem;
+  box-shadow: 0 1px 5px 0 rgba(0,0,0,0.5);
+  font-size: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: BlanchedAlmond;
+  cursor: pointer;
+}
+
+.c0:hover {
+  background: gold;
+}
+
+<div
+  className="c0"
+  onClick={[Function]}
+/>
+`;
